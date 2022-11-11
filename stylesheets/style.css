@@ -1,0 +1,37 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  margin: 0;
+  font-family: "Noto Sans";
+}
+p {
+  margin: 0 !important;
+}
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+ul {
+  list-style: none;
+  padding: 0 !important;
+}
+.section-title {
+  font-size: 3.5rem;
+  text-align: center;
+  margin: 0;
+  color: #fff;
+  margin-bottom: 30px !important;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1020px) {
+  html {
+    font-size: 48%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 50%;
+  }
+}
