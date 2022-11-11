@@ -1,2 +1,2 @@
 
-https://kumaribeauty.github.io/portfolio/
+https://kumaribeauty.github.io/
